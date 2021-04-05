@@ -1,0 +1,42 @@
+.container{
+    margin-top: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+  
+  
+  }
+  
+  
+  .inside_box_1{
+  
+    display: inline-block;
+  
+  }
+  .second_box{
+  
+    margin-top: 50px;
+  
+  }
+
+  .third_box{
+    margin-top: 50px;
+    margin-left: 50px;
+
+  }
+
+  input[type= 'email']{
+
+    width: 500px;
+    margin-left: 10px;
+    border-radius: 10px;
+
+  }
+
+  .btn-btn{
+
+        width: 100px;
+        margin-left: 20px;
+        background-color: blue;
+        color: white;
+
+  }
